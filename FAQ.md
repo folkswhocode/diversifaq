@@ -3,8 +3,7 @@
 ### ¿Qué beneficios tiene un equivo diverso?
 
 El software que desarrollamos es heredero de nuestros sesgos. Sobre esto existen
-numerosos [casos documentados]
-(https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals).
+numerosos [casos documentados](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals).
 
 Los equipos diversos disminuyen el impacto de estos sesgos en el producto final
 y son asimismo más resolutivos e innovadores.
