@@ -8,7 +8,7 @@ numerosos [casos documentados](https://www.theguardian.com/technology/2017/apr/1
 Los equipos diversos disminuyen el impacto de estos sesgos en el producto final
 y son asimismo más resolutivos e innovadores.
 
-### Hay poca diversidad porque a los miembros de grupos inrarrepresentados no les interesa la profesión.
+### Hay poca diversidad porque a los miembros de grupos infrarrepresentados no les interesa la profesión.
 Las circunstancias culturales, sociales o económicas del individuo determinan en gran medida su futuro y cómo será educado. La elección de una afición o profesión se orienta gracias a la polarización de la educación o la existencia de estereotipos y sesgos. Es decir, el interés existe pero se encuentra con muchos obstáculos a lo largo del recorrido vital de la persona.
 
 ### Miembros de grupos infrarrepresentados no responden a nuestras ofertas de empleo o *call for papers*.
