@@ -1,6 +1,6 @@
 # DiversiFAQ: Preguntas y respuestas sobre diversidad en tecnología
 
-### ¿Qué beneficios tiene un equivo diverso?
+### ¿Qué beneficios tiene un equipo diverso?
 
 El software que desarrollamos es heredero de nuestros sesgos. Sobre esto existen
 numerosos [casos documentados](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals).
