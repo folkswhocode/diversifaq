@@ -34,3 +34,9 @@ La promoción de la diversidad y la inclusión es una tarea compleja y transvers
 ### ¿Qué puedo hacer como individuo por la inclusión y la diversidad en tecnología?
 
 Hacer de la tecnología un espacio seguro es responsabilidad de todos, por lo que existen muchas acciones individuales que podemos llevar a cabo para cambiar la cultura del gremio y hacer de él un lugar acogedor: desde recibir formación relacionada a participar activamente en asociaciones que llevan a cabo campañas por la inclusión.
+
+### Queremos facilitar y fomentar la asistencia de grupos infrarrepresentados a nuestro evento, ¿es suficiente con reservar entradas?
+
+Dependiendo de las características de tu evento, reservar entradas será una propuesto muy útil o un movimiento desacertado.
+
+Es importante analizar qué barreras han de superar. ¿Es un evento gratuito? Entonces reservar entradas puede ser una buena idea. ¿Se trata, por el contrario, de un evento de pago? Quizá la mejor opción sea esponsorizar entradas.
