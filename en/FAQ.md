@@ -2,7 +2,7 @@
 
 ### What benefits has a diverse team?
 
-The software we develop inherits our biases. There are many [documentede cases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals) about this.
+The software we develop inherits our biases. There are many [documented cases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals) about this.
 
 Diverse teams diminish the impact of this biases in the final product, and are also more resolutive and innovative.
 
