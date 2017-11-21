@@ -39,4 +39,4 @@ Hacer de la tecnología un espacio seguro es responsabilidad de todos, por lo qu
 
 Dependiendo de las características de tu evento, reservar entradas será una propuesto muy útil o un movimiento desacertado.
 
-Es importante analizar qué barreras han de superar. ¿Es un evento gratuito? Entonces reservar entradas puede ser una buena idea. ¿Se trata, por el contrario, de un evento de pago? Quizá la mejor opción sea esponsorizar entradas.
+Es importante analizar qué barreras ha de superar nuestro público objetivo. ¿Es un evento gratuito? Entonces reservar entradas puede ser una buena idea. ¿Se trata, por el contrario, de un evento de pago? Quizá la mejor opción sea esponsorizar entradas.
